@@ -10,7 +10,7 @@ html,body{
 }
 
 .main{
-    background-image: url("assets/img/backimg.jpg");
+    background-image: url("./assets/img/backimg.jpg");
     background-position: top center;
     background-repeat: no-repeat;
     background-size: max(1200px,100vw);
@@ -221,7 +221,7 @@ nav button{
 }
 
 .movies .b4{
-    background: url("https://occ-0-2164-325.1.nflxso.net/dnm/api/v6/mAcAr9TxZIVbINe88xb3Teg5_OA/AAAABUiKNXIYjkmCmVedWUxralkvxaJAvqtsiIxM-jkmtG4Bgpu2XYlDGkqwmqUjujkKNLwjuiImN5xHgYQvYE5sgAtW2voNprG98TkAh737RgL5kQZrGbIhuwp_Tn_aJi7PzSFE.webp?r=f85");
+    background: url(assets/img/Dhoom_Dhaam.webp);
 }
 
 .movies .b5{
